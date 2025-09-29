@@ -11,3 +11,5 @@ Ch 1: Intro to Linux Operations
 * The **kernal** is the core of the operating system and manages the hardware such as disk drivers and memory
 * **RAM** is short for random access memory and it is a temporary storage space where the computer reads and writes data. The memory is erased when the computer shuts down (pg.7-8)
 * A **shell** is a command-line interface between users and the kernal. The most common shell is BASH (pg.10)
+
+<img src="images/linux_architecture.jpg" width="700">
