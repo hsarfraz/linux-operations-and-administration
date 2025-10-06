@@ -20,4 +20,6 @@ Ch 1: Intro to Linux Operations
 | Linux Kernel  |
 | Hardware |
 
-<img src="images/linux_architecture.jpg" width="400">
+Ch 2: Installing OpenSUSE & Virtualization Software Packages 
+
+Here is a youtube video which talks about the differece between the two most popular virtualisation software packages, VirtualBox vs VMWare Player. [link to video](https://www.youtube.com/watch?v=BZE6WhOa7GM)
