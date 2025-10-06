@@ -12,7 +12,7 @@ Ch 1: Intro to Linux Operations
 * **RAM** is short for random access memory and it is a temporary storage space where the computer reads and writes data. The memory is erased when the computer shuts down (pg.7-8)
 * A **shell** is a command-line interface between users and the kernal. The most common shell is BASH (pg.10)
 
-| First Header (pg 7) | 
+| Components of Linux Architecture (pg 7) -[image link](https://github.com/hsarfraz/linux-operations-and-administration/blob/main/images/linux_architecture.jpg) | 
 | ------------- |
 | Content Cell  | 
 | Content Cell  |
