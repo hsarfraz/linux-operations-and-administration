@@ -13,6 +13,7 @@ Ch 1: Intro to Linux Operations
 * A **shell** is a command-line interface between users and the kernal. The most common shell is BASH (pg.10)
 
 | First Header  | Second Header |
+| ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
