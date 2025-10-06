@@ -14,10 +14,10 @@ Ch 1: Intro to Linux Operations
 
 | Components of Linux Architecture (pg 7) -[image link](https://github.com/hsarfraz/linux-operations-and-administration/blob/main/images/linux_architecture.jpg) | 
 | ------------- |
-| Content Cell  | 
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
+| Applications (Firefox, OpenOffice.org)  | 
+| Graphical Desktop Environment (KDE, GNOME) |
+| Daemons (ftpd, httpd, inetd) & Shells (Bourne, C, Korn, BASH)  |
+| Linux Kernel  |
+| Hardware |
 
 <img src="images/linux_architecture.jpg" width="400">
