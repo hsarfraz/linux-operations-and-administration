@@ -26,5 +26,5 @@ Ch 2: Installing OpenSUSE & Virtualization Software Packages
 * Here is a youtube video which talks about the differece between the two most popular virtualisation software packages, VirtualBox vs VMWare Player. [link to video](https://www.youtube.com/watch?v=BZE6WhOa7GM)
 * Steps for installing a virtualization software packages 
   1. Install the virtualization software package (cooperative linux/CoLinux, Windows Virtual PC, Oracle Virtual Box or VMware Player)
-  2. Install openSUSE
+  2. Install a linux operating system (Ubuntu or openSUSE)
  
