@@ -15,9 +15,9 @@ Ch 1: Intro to Linux Operations
 | Components of Linux Architecture (pg 7) -[image link](https://github.com/hsarfraz/linux-operations-and-administration/blob/main/images/linux_architecture.jpg) | Purpose |
 | ------------- | ------------- |
 | Applications (Firefox, OpenOffice.org)  | na |
-| Graphical Desktop Environment (KDE, GNOME) | gives you windows, icons, menus |
-| Daemons (ftpd, httpd, inetd) & Shells (Bourne, C, Korn, BASH)  | na |
-| Linux Kernel  | na |
+| Graphical Desktop Environment (KDE, GNOME) | gives you windows, icons, menus + part of linux OS |
+| Daemons (ftpd, httpd, inetd) & Shells (Bourne, C, Korn, BASH)  | parts of linux OS |
+| Linux Kernel  | Part of Linux operating system (Ubuntu or openSUSE) |
 | Hardware | na |
 
 Ch 2: Installing OpenSUSE & Virtualization Software Packages 
