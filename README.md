@@ -12,13 +12,13 @@ Ch 1: Intro to Linux Operations
 * **RAM** is short for random access memory and it is a temporary storage space where the computer reads and writes data. The memory is erased when the computer shuts down (pg.7-8)
 * A **shell** is a command-line interface between users and the kernal. The most common shell is BASH (pg.10)
 
-| Components of Linux Architecture (pg 7) -[image link](https://github.com/hsarfraz/linux-operations-and-administration/blob/main/images/linux_architecture.jpg) | 
-| ------------- |
-| Applications (Firefox, OpenOffice.org)  | 
-| Graphical Desktop Environment (KDE, GNOME) |
-| Daemons (ftpd, httpd, inetd) & Shells (Bourne, C, Korn, BASH)  |
-| Linux Kernel  |
-| Hardware |
+| Components of Linux Architecture (pg 7) -[image link](https://github.com/hsarfraz/linux-operations-and-administration/blob/main/images/linux_architecture.jpg) | Purpose |
+| ------------- | ------------- |
+| Applications (Firefox, OpenOffice.org)  | na |
+| Graphical Desktop Environment (KDE, GNOME) | gives you windows, icons, menus |
+| Daemons (ftpd, httpd, inetd) & Shells (Bourne, C, Korn, BASH)  | na |
+| Linux Kernel  | na |
+| Hardware | na |
 
 Ch 2: Installing OpenSUSE & Virtualization Software Packages 
 
