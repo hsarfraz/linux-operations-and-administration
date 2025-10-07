@@ -16,7 +16,7 @@ Ch 1: Intro to Linux Operations
 | ------------- | ------------- |
 | Applications (Firefox, OpenOffice.org)  | na |
 | Graphical Desktop Environment (KDE, GNOME) | gives you windows, icons, menus + part of linux OS |
-| Daemons (ftpd, httpd, inetd) & Shells (Bourne, C, Korn, BASH)  | parts of linux OS |
+| Daemons (ftpd, httpd, inetd) & Shells (Bourne, C, Korn, BASH)  | part of linux OS |
 | Linux Kernel  | Part of Linux operating system (Ubuntu or openSUSE) |
 | Hardware | The virtualization software (VirtualBox or VMWare Player) + The Linux OS runs on this |
 
