@@ -18,7 +18,7 @@ Ch 1: Intro to Linux Operations
 | Graphical Desktop Environment (KDE, GNOME) | gives you windows, icons, menus + part of linux OS |
 | Daemons (ftpd, httpd, inetd) & Shells (Bourne, C, Korn, BASH)  | parts of linux OS |
 | Linux Kernel  | Part of Linux operating system (Ubuntu or openSUSE) |
-| Hardware | na |
+| Hardware | Linuc OS runs on this |
 
 Ch 2: Installing OpenSUSE & Virtualization Software Packages 
 
