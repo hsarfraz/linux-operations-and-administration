@@ -27,4 +27,6 @@ Ch 2: Installing OpenSUSE & Virtualization Software Packages
 * Steps for installing a virtualization software packages 
   1. Install the virtualization software package (cooperative linux/CoLinux, Windows Virtual PC, Oracle Virtual Box or VMware Player)
   2. Install a linux operating system (Ubuntu or openSUSE)
+* How I installed the Ubuntu 24.04.3 operating system on my virtualbox virtual machine
+  * I searched "ubuntu desktop install" on Google and clicked on [this link](https://ubuntu.com/download/desktop) from the official Ubuntu website and picked the `.iso` file for intel machines. I then went on the settings page of my virtual machine and went on the storage tab. Under the controller section/IDE I selected the iso file for the Ubuntu system
  
