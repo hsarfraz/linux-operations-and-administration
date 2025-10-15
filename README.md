@@ -34,19 +34,19 @@ Textbook: Linux Operations and Administration by Alfred Basta
 
  * Here is a [screenshot](https://github.com/hsarfraz/linux-operations-and-administration/blob/main/images/windows%20directory%20structure.jpg) of the windows file directory structure (pg. 42) and here is a [screenshot](https://github.com/hsarfraz/linux-operations-and-administration/blob/main/images/Linux%20Directory%20Structure.jpg) of the Linux file directory structure (pg. 43). Notice how the windows file directory has two separate braches while the linux file directory has one main branch
 
-The table below highlights different components of the Linux directory structure (pg. 44)
+The table below highlights different components of the Linux directory structure (pg. 44). Bolded directories are in the Linux file directory screenshot that I shared in the first bullet point
 
 | Directory | Description |
 | ------------- | ------------- |
-| /bin  | Contains binary commands that can be used by system administrators, users, and scripts; this directory shouldn't contain subdirectories and can be accessed in single user mode |
-| /boot  | Contains the Linux kernal and static files needed to boot the computer |
-| /dev  | Contains device files, such as the CD/DVD-ROM drive |
-| /etc  | Contains static configuration files, which are also unsharable files, meaning they are local to the machine  |
-| /home  | An optional directory that might not be included in all Linux distributions; in openSUSE, it's the user's home directory |
-| /lib  | Contains shared libraries that are loaded when a program starts |
+| **/etc**  | Contains static configuration files, which are also unsharable files, meaning they are local to the machine  |
+| **/opt**  | (under /etc) -Contains static shareable add-on software packages |
+| **/boot**  | Contains the Linux kernal and static files needed to boot the computer |
+| **/bin**  | Contains binary commands that can be used by system administrators, users, and scripts; this directory shouldn't contain subdirectories and can be accessed in single user mode |
+| **/dev**  | Contains device files, such as the CD/DVD-ROM drive |
+| **/home**  | An optional directory that might not be included in all Linux distributions; in openSUSE, it's the user's home directory |
+| **/lib**  | Contains shared libraries that are loaded when a program starts |
 | /media  | Contains the mount point for removable media |
 | /mnt  | Empty by default, but administrators can use it to mount other resources, such as CD/DVD-ROM drives |
-| /opt  | Contains static shareable add-on software packages |
 | /root  | Contains the recommended home directory for the root user; not all Linux distributions use it, but it's used in openSUSE |
 | /sbin  | Contains system binaries used by the system administrator |
 | /srv  | Contains data files for services |
