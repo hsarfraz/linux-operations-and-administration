@@ -34,7 +34,7 @@ Textbook: Linux Operations and Administration by Alfred Basta
 
  * Here is a [screenshot](https://github.com/hsarfraz/linux-operations-and-administration/blob/main/images/windows%20directory%20structure.jpg) of the windows file directory structure (pg. 42) and here is a [screenshot](https://github.com/hsarfraz/linux-operations-and-administration/blob/main/images/Linux%20Directory%20Structure.jpg) of the Linux file directory structure (pg. 43). Notice how the windows file directory has two separate braches while the linux file directory has one main branch
 
-The table below highlights different components of the Linux directory structure
+The table below highlights different components of the Linux directory structure (pg. 44)
 
 | Directory | Description |
 | ------------- | ------------- |
