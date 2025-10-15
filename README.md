@@ -2,7 +2,7 @@
 
 Textbook: Linux Operations and Administration by Alfred Basta
 
-Ch 1: Intro to Linux Operations
+## Ch 1: Intro to Linux Operations
 
 * Linux architecture and its components: kernal, desktop environment, and file structure (pg.2)
 * Open source software has its source code published with the software. Users can modify and redistribute open-source software (pg.2)
@@ -20,7 +20,7 @@ Ch 1: Intro to Linux Operations
 | Linux Kernel  | Part of Linux operating system (Ubuntu or openSUSE) |
 | Hardware | The virtualization software (VirtualBox or VMWare Player) + The Linux OS runs on this |
 
-Ch 2: Installing OpenSUSE & Virtualization Software Packages 
+## Ch 2: Installing OpenSUSE & Virtualization Software Packages 
 
 * Here are 4 virtualization software packages: cooperative linux/CoLinux, Windows Virtual PC, Oracle Virtual Box, VMware Player (pg. 18)
 * Here is a youtube video which talks about the differece between the two most popular virtualisation software packages, VirtualBox vs VMWare Player. [link to video](https://www.youtube.com/watch?v=BZE6WhOa7GM)
@@ -29,4 +29,7 @@ Ch 2: Installing OpenSUSE & Virtualization Software Packages
   2. Install a linux operating system (Ubuntu or openSUSE)
 * How I installed the Ubuntu 24.04.3 operating system on my virtualbox virtual machine
   * I searched "ubuntu desktop install" on Google and clicked on [this link](https://ubuntu.com/download/desktop) from the official Ubuntu website and picked the `.iso` file for intel machines. I then went on the settings page of my virtual machine and went on the storage tab. Under the controller section/IDE I selected the iso file for the Ubuntu system
- 
+
+ ## Ch 3: Managing Files and Directories
+
+ * Here is a [screenshot]() of the windows file directory structure (pg. 42) and here is a [screenshot]() of the Linux file directory structure (pg. 43)
