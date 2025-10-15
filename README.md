@@ -32,4 +32,4 @@ Textbook: Linux Operations and Administration by Alfred Basta
 
  ## Ch 3: Managing Files and Directories
 
- * Here is a [screenshot]() of the windows file directory structure (pg. 42) and here is a [screenshot]() of the Linux file directory structure (pg. 43)
+ * Here is a [screenshot](https://github.com/hsarfraz/linux-operations-and-administration/blob/main/images/windows%20directory%20structure.jpg) of the windows file directory structure (pg. 42) and here is a [screenshot](https://github.com/hsarfraz/linux-operations-and-administration/blob/main/images/Linux%20Directory%20Structure.jpg) of the Linux file directory structure (pg. 43)
